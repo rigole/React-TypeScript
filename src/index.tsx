@@ -1,9 +1,10 @@
 import ReactDOM from "react-dom"
+import GuesList from "./state/GuesList";
 
 const App = () => {
     return (
         <div>
-            <h1>Hello World</h1>
+            <GuesList/>
         </div>
     )
 }
