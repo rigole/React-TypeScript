@@ -1,10 +1,11 @@
 import ReactDOM from "react-dom"
 import GuesList from "./state/GuesList";
+import UserSearch from "./state/UserSearch";
 
 const App = () => {
     return (
         <div>
-            <GuesList/>
+            <UserSearch/>
         </div>
     )
 }
