@@ -1,0 +1,1 @@
+Applying mMy ReactJS Skills in TypeScript instead of JavaScript is the purpose of this repository
